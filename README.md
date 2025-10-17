@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm kas4dev</p>
+<p align="left">I'm kas4dev.</p>
 
 ###
 
